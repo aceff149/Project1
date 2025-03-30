@@ -54,7 +54,7 @@ form {
   margin-left: 80px;
 }
 
-.followMe {
-  max-width: 750px;
-  max-height: 750px;
+.img-thumbnail {
+  max-width: 450px;
+  max-height: 500px;
 }
