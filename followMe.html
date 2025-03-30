@@ -1,22 +1,39 @@
 <!DOCTYPE html>
+<header>
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">AECreations</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="./Index.html">Home</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Menu
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="./Links/AECreations615Etsy.html">Order Now</a></li>
+              <li><a class="dropdown-item" href="./Links/Instagram.html">Instagram</a></li>
+              <li><a class="dropdown-item" href="./galleryPictures.html">Gallery</a></li>
+              <li><a class="dropdown-item" href="./followMe.html">Lets Connect</a></li>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./CSS/style.css">
   <title>Follow Me</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
-<div class="dropdown">
-  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-    Menu
-  </a>
 
-  <ul class="dropdown-menu">
-    <li><a class="dropdown-item" href="Index.html">Home</a></li>
-    <li><a class="dropdown-item" href="./galleryPictures.html">Gallery</a></li>
-    <li><a class="dropdown-item" href="./Links/AECreations615Etsy.html">Order Now</a></li>
-    <li><a class="dropdown-item" href="./followMe.html">Lets Connect</a></li>
-  </ul>
   <main>
     <section>
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -35,9 +52,30 @@
         </a>
       </div>
     </section>
+    <section><form
+      action="https://formspree.io/f/xjkyejvo"
+      method="POST"
+    >
+    <label>
+      First Name:
+      <input type="First Name" name="First Name">
+    </label>
+    <label>
+      Last Name:
+      <input type="Last Name" name="Last Name">
+    </label>
+    <label>
+        Your email:
+        <input type="email" name="email">
+    </label>
+    <label>
+        Your message:
+        <textarea name="message"></textarea>
+    </label>
+      <button type="submit">Submit</button>
+    </form></section>
   </main>
+<footer>
 
-  <a href="./Links/Instagram.html" class="btn btn-primary" tabindex="-1" role="button" aria-disabled="true">Instagram</a>
-<a href="./Links/AECreations615Etsy.html" class="btn btn-primary" tabindex="-1" role="button" aria-disabled="true">Etsy Shop</a>
-
+</footer>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
