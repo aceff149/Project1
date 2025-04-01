@@ -23,12 +23,12 @@ A Personal Website for my own Custom Appareal/Stickers Company AECreations to pr
 ![4](https://github.com/user-attachments/assets/d7e39957-717e-4a52-8a00-39357461a7b2)
 
 ## Features:
-1. Multipage Website
-2. Connection to Etsy Store for quicker ordering process
-3. Easy navigation to connect directly with the customer
-4. Ability to see previous projects for professional and personal use
-5. Contact page with Formspree
-6. Gallery of Images
+- Multipage Website
+- Connection to Etsy Store for quicker ordering process
+- Easy navigation to connect directly with the customer
+- Ability to see previous projects for professional and personal use
+- Contact page with Formspree
+- Gallery of Images
 
 ## Technologies Used:
 - HTML
@@ -37,9 +37,9 @@ A Personal Website for my own Custom Appareal/Stickers Company AECreations to pr
 - Canva
 
 ## Future Improvements:
-1. Connect gallery pictures to actual links on Etsy Account
-2. Create a seperate ordering system through the website instead of directing to Etsy Store
-3. 3.Creating more marketable Images via models to bring the page to a more proefessional and attractive look.
+- Connect gallery pictures to actual links on Etsy Account
+- Create a seperate ordering system through the website instead of directing to Etsy Store
+- Creating more marketable Images via models to bring the page to a more proefessional and attractive look.
 
 
 
