@@ -41,5 +41,6 @@ A Personal Website for my own Custom Appareal/Stickers Company AECreations to pr
 - Create a seperate ordering system through the website instead of directing to Etsy Store
 - Creating more marketable Images via models to bring the page to a more proefessional and attractive look.
 
-
+## Author:
+[Allie Efferson](https://www.linkedin.com/in/allie-efferson/)
 
