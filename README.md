@@ -16,6 +16,12 @@ User Stories:
 2. For companies to see the quality of work and the size of orders I have accommodated for Weddings, Companies, or even small group orders.
 3. For friends and family to share my work as well as promote my company in an easier and unique fashion aside from Etsy.
 
+Wireframe:
+![1](https://github.com/user-attachments/assets/9bc2717d-2bc8-4612-956d-4cc70070a4bf)
+![2](https://github.com/user-attachments/assets/513494d8-fa73-4e30-9859-e347df5e71d9)
+![3](https://github.com/user-attachments/assets/b1e11cdb-a6ea-4d9b-b03d-6ea25f5bdbe1)
+![4](https://github.com/user-attachments/assets/d7e39957-717e-4a52-8a00-39357461a7b2)
+
 Features:
 1. Multipage Website
 2. Connection to Etsy Store for quicker ordering process
@@ -25,11 +31,12 @@ Features:
 6. Gallery of Images
 
 Technologies Used:
-HTML/CSS/Bootstrap
+HTML/CSS/Bootstrap/Canva
 
 Future Improvements:
 1. Connect gallery pictures to actual links on Etsy Account
 2. Create a seperate ordering system through the website instead of directing to Etsy Store
 3. 3.Creating more marketable Images via models to bring the page to a more proefessional and attractive look.
+
 
 
